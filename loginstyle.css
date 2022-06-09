@@ -1,0 +1,81 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: #A6380A;
+    background: url('images/Screenshot.png');
+    background-size:cover;
+}
+
+.loginbox{
+    
+    width: 588px;
+    height: 950px;
+    margin-left: 500px;
+    margin-top: 15px;
+
+    background: #FD6F00;
+    border-radius: 68px;
+    
+    }
+
+.logo{
+    margin-left: 250px;
+    width: 150px;
+    height: 200px;
+    left: 0px;
+    top: 0px;
+
+    background: url('images/—Pngtree—afro\ woman\ buttrfly_5221373\ 1.png');
+}
+.loginbox h2{
+    text-align: center;
+    font-family: "Istok Web";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+.input{
+    text-align: center;
+
+}
+.loginbox input[type="text"], input[type="password"]
+{
+    margin-top: 60px;
+    width: 406px;
+    height: 51px;
+    left: 517px;
+    top: 524px;
+
+    background: #D9D9D9;
+    opacity: 0.6;
+    border-radius: 11px;
+}
+.loginbox input[type="submit"]
+{
+    margin-top: 150px;
+    width: 179px;
+    height: 46px;
+    left: 630px;
+    top: 815px;
+    background: #DF0707;
+    border-radius: 11px;
+    border-width: 0px;
+
+}
+.loginbox h1{
+    text-align: center;
+    font-family: 'Italiana';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    color: #FFFFFF;
+    letter-spacing: 0.13em;
+    text-transform: capitalize;
+
+
+}
+.loginbtn{
+    color:#fff;
+}
